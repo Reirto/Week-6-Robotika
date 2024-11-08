@@ -1,0 +1,5 @@
+<launch>
+    <rosparam file="$(find prm_package)/params.yaml" command="load" />
+    <node name="prm_node" pkg="prm_package" type="prm.py" output="screen" />
+</launch>
+

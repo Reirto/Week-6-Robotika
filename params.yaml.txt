@@ -1,0 +1,7 @@
+num_nodes: 100
+threshold: 5.0
+start: 0
+goal: 99
+x_max: 20
+y_max: 20
+
